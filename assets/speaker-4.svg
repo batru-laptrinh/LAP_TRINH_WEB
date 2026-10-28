@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" aria-label="Chân dung minh họa Phạm Ngọc Mai">
+  <rect width="320" height="240" fill="#eeebe8"/>
+  <path d="M108 172V86c0-35 17-61 52-61s52 26 52 61v86" fill="#514840"/>
+  <path d="M65 240v-23c0-48 39-72 95-72s95 24 95 72v23" fill="#81756e"/>
+  <path d="M141 140h38v32l-19 16-19-16" fill="#dbbca4"/>
+  <ellipse cx="160" cy="95" rx="42" ry="53" fill="#e7c9b1"/>
+  <path d="M117 88c-1-33 15-55 42-55 30 0 47 22 44 55-17-1-35-16-43-31-10 18-24 26-43 31" fill="#514840"/>
+  <path d="M139 162l21 26 21-26 12 78h-66" fill="#faf7f1"/>
+  <g fill="none" stroke="#5b5149" stroke-width="2.5"><circle cx="143" cy="96" r="13"/><circle cx="177" cy="96" r="13"/><path d="M156 94h8M149 124q11 8 22 0"/></g>
+  <circle cx="143" cy="96" r="2" fill="#514840"/><circle cx="177" cy="96" r="2" fill="#514840"/>
+  <text x="14" y="20" fill="#5e6662" font-family="Arial,sans-serif" font-size="10">ẢNH MINH HỌA</text>
+</svg>

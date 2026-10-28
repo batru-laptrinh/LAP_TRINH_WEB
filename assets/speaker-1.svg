@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" aria-label="Chân dung minh họa Nguyễn Minh An">
+  <rect width="320" height="240" fill="#e9eeeb"/>
+  <path d="M65 240v-25c0-47 39-71 95-71s95 24 95 71v25" fill="#52635a"/>
+  <path d="M140 143h40v39l-20 20-20-20" fill="#d6b79e"/>
+  <ellipse cx="160" cy="94" rx="44" ry="53" fill="#dfc2a8"/>
+  <path d="M116 93c-8-39 13-63 45-63 35 0 50 25 43 61l-10-26-17 5-27-12-25 18" fill="#424943"/>
+  <path d="M129 179l31 23 31-23-12 61h-38" fill="#fff"/>
+  <g fill="none" stroke="#4b504c" stroke-width="3"><rect x="126" y="87" width="28" height="20" rx="5"/><rect x="166" y="87" width="28" height="20" rx="5"/><path d="M154 93h12M149 125q11 7 22 0"/></g>
+  <circle cx="141" cy="97" r="2" fill="#424943"/><circle cx="180" cy="97" r="2" fill="#424943"/>
+  <text x="14" y="20" fill="#5e6662" font-family="Arial,sans-serif" font-size="10">ẢNH MINH HỌA</text>
+</svg>

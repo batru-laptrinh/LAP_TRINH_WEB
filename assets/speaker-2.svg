@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" aria-label="Chân dung minh họa Trần Thu Hà">
+  <rect width="320" height="240" fill="#ecebe7"/>
+  <path d="M105 148V88c0-38 20-62 55-62s55 24 55 62v85" fill="#45473f"/>
+  <path d="M63 240v-24c0-45 39-70 97-70s97 25 97 70v24" fill="#757c70"/>
+  <path d="M142 139h36v30l-18 18-18-18" fill="#d7b69e"/>
+  <ellipse cx="160" cy="96" rx="42" ry="52" fill="#e6c5ac"/>
+  <path d="M116 84c0-36 23-52 44-52 30 0 50 22 45 57-19-4-34-18-40-29-7 11-25 20-49 24" fill="#45473f"/>
+  <path d="M139 161l21 26 21-26 11 79h-64" fill="#f3f2ec"/>
+  <circle cx="145" cy="96" r="3" fill="#45473f"/><circle cx="176" cy="96" r="3" fill="#45473f"/>
+  <path d="M149 123q11 9 22 0" fill="none" stroke="#8b5e52" stroke-width="3" stroke-linecap="round"/>
+  <text x="14" y="20" fill="#5e6662" font-family="Arial,sans-serif" font-size="10">ẢNH MINH HỌA</text>
+</svg>

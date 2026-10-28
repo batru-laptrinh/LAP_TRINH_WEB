@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" aria-label="Chân dung minh họa Lê Quốc Bảo">
+  <rect width="320" height="240" fill="#e7ebed"/>
+  <path d="M64 240v-24c0-48 40-71 96-71s96 23 96 71v24" fill="#57636c"/>
+  <path d="M140 139h40v34l-20 14-20-14" fill="#cda68c"/>
+  <ellipse cx="160" cy="95" rx="44" ry="53" fill="#ddb79a"/>
+  <path d="M115 91c-6-34 7-62 41-64 24-1 44 13 50 39l-7 28-10-25c-18 3-36-2-48-10l-20 32" fill="#373f43"/>
+  <path d="M140 164l20 23 20-23 14 76h-68" fill="#e6edf0"/>
+  <path d="M154 187h12l5 53h-22" fill="#404d54"/>
+  <circle cx="144" cy="96" r="3" fill="#373f43"/><circle cx="177" cy="96" r="3" fill="#373f43"/>
+  <path d="M149 124q11 7 22 0" fill="none" stroke="#805f50" stroke-width="3" stroke-linecap="round"/>
+  <text x="14" y="20" fill="#5e6662" font-family="Arial,sans-serif" font-size="10">ẢNH MINH HỌA</text>
+</svg>

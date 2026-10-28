@@ -1,0 +1,20 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Chạy website",
+      "type": "npm",
+      "script": "start",
+      "isBackground": true,
+      "problemMatcher": [],
+      "presentation": { "reveal": "always", "panel": "dedicated" }
+    },
+    {
+      "label": "Kiểm thử Model",
+      "type": "npm",
+      "script": "test",
+      "group": "test",
+      "problemMatcher": []
+    }
+  ]
+}

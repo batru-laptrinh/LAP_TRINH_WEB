@@ -1,0 +1,12 @@
+{
+  "name": "hoi-thao-khoa-hoc-mvc",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Bài thực hành 6: Website hội thảo khoa học với HTML, CSS, JavaScript theo MVC.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/registration-model.test.js"
+  }
+}
